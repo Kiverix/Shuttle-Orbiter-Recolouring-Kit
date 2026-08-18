@@ -6,7 +6,7 @@ TexturesUnlimited recolor config for Benjee10's SOCK (the moonraker paintscheme)
 - The recolouring mask is the same as the Moonraker stripes (derived from Invaderchaos' SOCK RECOLORED)
 
 ## Install
-Requires TexturesUnlimited. Merge the GameData folder so files are placed in GameData/KVX-SORK/. (SOCK Recolored is not required.)
+Requires TexturesUnlimited and Benjee10's Shuttle Orbiter Construction Kit. Merge the GameData folder so files are placed in GameData/KVX-SORK/. (SOCK Recolored is not required.)
 
 ## On/off toggle
 Each affected part now has a "Recolor" switch row in the editor with two options:
